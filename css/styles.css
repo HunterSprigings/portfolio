@@ -16,13 +16,13 @@
       .circle1 {
         width: 100px;
         height: 100px;
-        background: #4bc475;
+        background-image: url("https://github.com/HunterSprigings/portfolio/blob/15823b35a64415e4f700a8d0b2d0ba33e6ac8175/images/1637957898071.jpeg")
         border: 1px solid #000;
       }
       .circle2 {
         width: 150px;
         height: 150px;
-        background: #a1a1a1;
+        background-image: url("https://github.com/HunterSprigings/portfolio/blob/15823b35a64415e4f700a8d0b2d0ba33e6ac8175/images/1637957898071.jpeg")
         border: 1px solid #000;
       }
 }
